@@ -1,0 +1,31 @@
+Average propagation loss is 31520.6125474 dB*m^2
+Average propagation loss according to 1/r^2 is 30289.1472939 dB*m^2
+For each location, the propagation loss k and the 1/r^2 prediction k_r is shown below along with the distance to the origin WAP
+k = 635.0 dB*m^2;	k_r = 535.0 dB*m^2;	dis = 2.23529551086 m
+k = 9406.0 dB*m^2;	k_r = 8315.0 dB*m^2;	dis = 8.37822676698 m
+k = 4550.0 dB*m^2;	k_r = 4073.0 dB*m^2;	dis = 5.93902744339 m
+k = 14626.0 dB*m^2;	k_r = 12841.0 dB*m^2;	dis = 10.3323921229 m
+k = 21268.0 dB*m^2;	k_r = 20142.0 dB*m^2;	dis = 12.8400894252 m
+k = 29062.0 dB*m^2;	k_r = 26963.0 dB*m^2;	dis = 14.7820449067 m
+k = 42359.0 dB*m^2;	k_r = 41769.0 dB*m^2;	dis = 18.2629710782 m
+k = 38402.0 dB*m^2;	k_r = 37739.0 dB*m^2;	dis = 17.3891162276 m
+k = 25056.0 dB*m^2;	k_r = 22427.0 dB*m^2;	dis = 13.5238079492 m
+k = 133989.0 dB*m^2;	k_r = 137400.0 dB*m^2;	dis = 32.4812475957 m
+k = 25968.0 dB*m^2;	k_r = 26465.0 dB*m^2;	dis = 14.6496548743 m
+k = 24845.0 dB*m^2;	k_r = 21899.0 dB*m^2;	dis = 13.3693213252 m
+k = 10191.0 dB*m^2;	k_r = 9475.0 dB*m^2;	dis = 8.92287164527 m
+k = 6265.0 dB*m^2;	k_r = 5676.0 dB*m^2;	dis = 6.9690002025 m
+k = 200996.0 dB*m^2;	k_r = 190298.0 dB*m^2;	dis = 38.026480423 m
+k = 82060.0 dB*m^2;	k_r = 77707.0 dB*m^2;	dis = 24.6546561707 m
+k = 36676.0 dB*m^2;	k_r = 36280.0 dB*m^2;	dis = 17.0610193774 m
+k = 26449.0 dB*m^2;	k_r = 26744.0 dB*m^2;	dis = 14.7239315354 m
+k = 20155.0 dB*m^2;	k_r = 20358.0 dB*m^2;	dis = 12.9063127408 m
+k = 2725.0 dB*m^2;	k_r = 2556.0 dB*m^2;	dis = 4.74522533606 m
+k = 8368.0 dB*m^2;	k_r = 7724.0 dB*m^2;	dis = 8.08556606645 m
+k = 7799.0 dB*m^2;	k_r = 7239.0 dB*m^2;	dis = 7.83662390764 m
+k = 1486.0 dB*m^2;	k_r = 1285.0 dB*m^2;	dis = 3.40734967681 m
+k = 2272.0 dB*m^2;	k_r = 2135.0 dB*m^2;	dis = 4.35081875329 m
+k = 1472.0 dB*m^2;	k_r = 1325.0 dB*m^2;	dis = 3.45901481032 m
+k = 5615.0 dB*m^2;	k_r = 5323.0 dB*m^2;	dis = 6.7564739785 m
+k = 16559.0 dB*m^2;	k_r = 15059.0 dB*m^2;	dis = 11.1580920212 m
+k = 83324.0 dB*m^2;	k_r = 78344.0 dB*m^2;	dis = 24.7522618857 m

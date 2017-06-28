@@ -1,0 +1,31 @@
+Average propagation loss is 73843.535684 dB*m^2
+Average propagation loss according to 1/r^2 is 75564.4332745 dB*m^2
+For each location, the propagation loss k and the 1/r^2 prediction k_r is shown below along with the distance to the origin WAP
+k = 12029.0 dB*m^2;	k_r = 11532.0 dB*m^2;	dis = 9.80973643617 m
+k = 7054.0 dB*m^2;	k_r = 6577.0 dB*m^2;	dis = 7.48246311331 m
+k = 4450.0 dB*m^2;	k_r = 4290.0 dB*m^2;	dis = 6.08949774953 m
+k = 2235.0 dB*m^2;	k_r = 2099.0 dB*m^2;	dis = 4.31564877964 m
+k = 1825.0 dB*m^2;	k_r = 1793.0 dB*m^2;	dis = 4.00060685343 m
+k = 9542.0 dB*m^2;	k_r = 9545.0 dB*m^2;	dis = 8.9545082264 m
+k = 15659.0 dB*m^2;	k_r = 15948.0 dB*m^2;	dis = 11.471239934 m
+k = 38201.0 dB*m^2;	k_r = 37843.0 dB*m^2;	dis = 17.4122278352 m
+k = 181007.0 dB*m^2;	k_r = 187476.0 dB*m^2;	dis = 37.7525310503 m
+k = 146605.0 dB*m^2;	k_r = 152025.0 dB*m^2;	dis = 34.1105933572 m
+k = 102680.0 dB*m^2;	k_r = 104359.0 dB*m^2;	dis = 28.4342078513 m
+k = 67387.0 dB*m^2;	k_r = 74816.0 dB*m^2;	dis = 24.2068879994 m
+k = 58675.0 dB*m^2;	k_r = 58512.0 dB*m^2;	dis = 21.4943512713 m
+k = 20621.0 dB*m^2;	k_r = 21394.0 dB*m^2;	dis = 13.2194603105 m
+k = 24275.0 dB*m^2;	k_r = 25330.0 dB*m^2;	dis = 14.3428210776 m
+k = 22813.0 dB*m^2;	k_r = 21486.0 dB*m^2;	dis = 13.2469664787 m
+k = 29328.0 dB*m^2;	k_r = 27869.0 dB*m^2;	dis = 15.0199785993 m
+k = 84237.0 dB*m^2;	k_r = 87905.0 dB*m^2;	dis = 26.1697526684 m
+k = 96898.0 dB*m^2;	k_r = 101596.0 dB*m^2;	dis = 28.0675280353 m
+k = 124939.0 dB*m^2;	k_r = 120926.0 dB*m^2;	dis = 30.5348967158 m
+k = 159106.0 dB*m^2;	k_r = 161463.0 dB*m^2;	dis = 35.1195558082 m
+k = 183903.0 dB*m^2;	k_r = 189037.0 dB*m^2;	dis = 37.9043569931 m
+k = 38148.0 dB*m^2;	k_r = 37480.0 dB*m^2;	dis = 17.3314861883 m
+k = 24351.0 dB*m^2;	k_r = 23551.0 dB*m^2;	dis = 13.8470300959 m
+k = 106634.0 dB*m^2;	k_r = 111230.0 dB*m^2;	dis = 29.3248870774 m
+k = 65518.0 dB*m^2;	k_r = 67225.0 dB*m^2;	dis = 22.9863962634 m
+k = 185676.0 dB*m^2;	k_r = 190921.0 dB*m^2;	dis = 38.0866834995 m
+k = 253823.0 dB*m^2;	k_r = 261574.0 dB*m^2;	dis = 44.3578598309 m

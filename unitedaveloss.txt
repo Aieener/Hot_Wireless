@@ -1,0 +1,28 @@
+Average propagation loss is 170483.573966 dB*m^2
+Average propagation loss according to 1/r^2 is 167041.756226 dB*m^2
+For each location, the propagation loss k and the 1/r^2 prediction k_r is shown below along with the distance to the origin WAP
+k = 12896.0 dB*m^2;	k_r = 13043.0 dB*m^2;	dis = 10.4102239575 m
+k = 3132.0 dB*m^2;	k_r = 2980.0 dB*m^2;	dis = 5.10865485862 m
+k = 11392.0 dB*m^2;	k_r = 11570.0 dB*m^2;	dis = 9.82545213672 m
+k = 23021.0 dB*m^2;	k_r = 23362.0 dB*m^2;	dis = 13.7932343381 m
+k = 96129.0 dB*m^2;	k_r = 100763.0 dB*m^2;	dis = 27.9560121846 m
+k = 135422.0 dB*m^2;	k_r = 129429.0 dB*m^2;	dis = 31.5555415094 m
+k = 148020.0 dB*m^2;	k_r = 151063.0 dB*m^2;	dis = 34.0060065896 m
+k = 291779.0 dB*m^2;	k_r = 281740.0 dB*m^2;	dis = 45.9819545238 m
+k = 331314.0 dB*m^2;	k_r = 331145.0 dB*m^2;	dis = 49.7241962193 m
+k = 382490.0 dB*m^2;	k_r = 367094.0 dB*m^2;	dis = 52.2691923266 m
+k = 433862.0 dB*m^2;	k_r = 415035.0 dB*m^2;	dis = 55.471061968 m
+k = 501659.0 dB*m^2;	k_r = 482134.0 dB*m^2;	dis = 59.6478702991 m
+k = 512799.0 dB*m^2;	k_r = 493186.0 dB*m^2;	dis = 60.306485113 m
+k = 13989.0 dB*m^2;	k_r = 12645.0 dB*m^2;	dis = 10.2558847431 m
+k = 19255.0 dB*m^2;	k_r = 18171.0 dB*m^2;	dis = 12.2173914497 m
+k = 34910.0 dB*m^2;	k_r = 34759.0 dB*m^2;	dis = 16.7117066249 m
+k = 61703.0 dB*m^2;	k_r = 63711.0 dB*m^2;	dis = 22.3974640459 m
+k = 133207.0 dB*m^2;	k_r = 128217.0 dB*m^2;	dis = 31.4121236523 m
+k = 180308.0 dB*m^2;	k_r = 188259.0 dB*m^2;	dis = 37.828774679 m
+k = 222522.0 dB*m^2;	k_r = 217858.0 dB*m^2;	dis = 40.5993782429 m
+k = 347340.0 dB*m^2;	k_r = 350394.0 dB*m^2;	dis = 51.1036458651 m
+k = 187564.0 dB*m^2;	k_r = 189861.0 dB*m^2;	dis = 37.9841948492 m
+k = 87848.0 dB*m^2;	k_r = 86698.0 dB*m^2;	dis = 25.9952918857 m
+k = 15992.0 dB*m^2;	k_r = 15113.0 dB*m^2;	dis = 11.1774452228 m
+k = 73535.0 dB*m^2;	k_r = 67815.0 dB*m^2;	dis = 23.0837438308 m

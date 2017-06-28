@@ -1,0 +1,31 @@
+Average propagation loss is 27324.2784447 dB*m^2
+Average propagation loss according to 1/r^2 is 25514.3967432 dB*m^2
+For each location, the propagation loss k and the 1/r^2 prediction k_r is shown below along with the distance to the origin WAP
+k = 5647.0 dB*m^2;	k_r = 5793.0 dB*m^2;	dis = 7.03802631076 m
+k = 9854.0 dB*m^2;	k_r = 9784.0 dB*m^2;	dis = 9.0618833097 m
+k = 11539.0 dB*m^2;	k_r = 11522.0 dB*m^2;	dis = 9.80596429778 m
+k = 14785.0 dB*m^2;	k_r = 14162.0 dB*m^2;	dis = 10.832413402 m
+k = 13229.0 dB*m^2;	k_r = 12519.0 dB*m^2;	dis = 10.206259806 m
+k = 9067.0 dB*m^2;	k_r = 8823.0 dB*m^2;	dis = 8.62108585467 m
+k = 3303.0 dB*m^2;	k_r = 3233.0 dB*m^2;	dis = 5.31344446139 m
+k = 6525.0 dB*m^2;	k_r = 6436.0 dB*m^2;	dis = 7.40468297856 m
+k = 13727.0 dB*m^2;	k_r = 12798.0 dB*m^2;	dis = 10.3153821261 m
+k = 19082.0 dB*m^2;	k_r = 17307.0 dB*m^2;	dis = 11.9333880556 m
+k = 39834.0 dB*m^2;	k_r = 36795.0 dB*m^2;	dis = 17.1775019374 m
+k = 56608.0 dB*m^2;	k_r = 52928.0 dB*m^2;	dis = 20.4771923703 m
+k = 36899.0 dB*m^2;	k_r = 35630.0 dB*m^2;	dis = 16.9127305601 m
+k = 8067.0 dB*m^2;	k_r = 7377.0 dB*m^2;	dis = 7.90812628916 m
+k = 18419.0 dB*m^2;	k_r = 15827.0 dB*m^2;	dis = 11.4293815818 m
+k = 29121.0 dB*m^2;	k_r = 25249.0 dB*m^2;	dis = 14.3205614485 m
+k = 68571.0 dB*m^2;	k_r = 63563.0 dB*m^2;	dis = 22.3721973827 m
+k = 106416.0 dB*m^2;	k_r = 98638.0 dB*m^2;	dis = 27.6691633409 m
+k = 146130.0 dB*m^2;	k_r = 131988.0 dB*m^2;	dis = 31.8558296901 m
+k = 4482.0 dB*m^2;	k_r = 4042.0 dB*m^2;	dis = 5.91723931967 m
+k = 4893.0 dB*m^2;	k_r = 4694.0 dB*m^2;	dis = 6.35933311975 m
+k = 13487.0 dB*m^2;	k_r = 14683.0 dB*m^2;	dis = 11.0229156834 m
+k = 13048.0 dB*m^2;	k_r = 13088.0 dB*m^2;	dis = 10.4275174315 m
+k = 28101.0 dB*m^2;	k_r = 27540.0 dB*m^2;	dis = 14.934091421 m
+k = 39714.0 dB*m^2;	k_r = 38758.0 dB*m^2;	dis = 17.6144506426 m
+k = 12351.0 dB*m^2;	k_r = 11290.0 dB*m^2;	dis = 9.70991283476 m
+k = 16859.0 dB*m^2;	k_r = 16360.0 dB*m^2;	dis = 11.6135225709 m
+k = 15320.0 dB*m^2;	k_r = 13576.0 dB*m^2;	dis = 10.6135545399 m

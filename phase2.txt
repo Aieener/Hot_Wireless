@@ -1,0 +1,4 @@
+BSSID5:   84:d4:7e:dc:2a:40,      Latitude5: 39.95211939 ,Longitude: -75.19368078 
+
+84:d4:7e:dc:2a:40                  
+
